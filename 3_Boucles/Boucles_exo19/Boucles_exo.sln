@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boucles_exo19", "Boucles_ex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boucle_exo22", "..\Boucle_exo22\Boucle_exo22.vcxproj", "{3773A6E0-AE23-4C1E-84B7-D054AB2A7372}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boucle_exo23", "..\Boucle_exo23\Boucle_exo23.vcxproj", "{C4E3F927-6ABD-463B-8330-8291A3348AB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3773A6E0-AE23-4C1E-84B7-D054AB2A7372}.Release|x64.Build.0 = Release|x64
 		{3773A6E0-AE23-4C1E-84B7-D054AB2A7372}.Release|x86.ActiveCfg = Release|Win32
 		{3773A6E0-AE23-4C1E-84B7-D054AB2A7372}.Release|x86.Build.0 = Release|Win32
+		{C4E3F927-6ABD-463B-8330-8291A3348AB2}.Debug|x64.ActiveCfg = Debug|x64
+		{C4E3F927-6ABD-463B-8330-8291A3348AB2}.Debug|x64.Build.0 = Debug|x64
+		{C4E3F927-6ABD-463B-8330-8291A3348AB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{C4E3F927-6ABD-463B-8330-8291A3348AB2}.Debug|x86.Build.0 = Debug|Win32
+		{C4E3F927-6ABD-463B-8330-8291A3348AB2}.Release|x64.ActiveCfg = Release|x64
+		{C4E3F927-6ABD-463B-8330-8291A3348AB2}.Release|x64.Build.0 = Release|x64
+		{C4E3F927-6ABD-463B-8330-8291A3348AB2}.Release|x86.ActiveCfg = Release|Win32
+		{C4E3F927-6ABD-463B-8330-8291A3348AB2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
